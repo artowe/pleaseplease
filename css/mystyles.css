@@ -1,0 +1,22 @@
+.color{
+    background-color: lightsalmon !important;
+}
+.text-primary{
+    color: lightsalmon !important;
+}
+.email{
+    color: lightsalmon;
+}
+.padding{
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    box-sizing: border-box !important;
+    overflow: auto;
+}
+.largertext{
+    font-size: 30px;
+}
+.largeheader{
+    font-size: 80px;
+    font-weight: bolder;
+}
